@@ -1,0 +1,7 @@
+this is my new file
+Right now I am in insert mode because I type 'i'
+
+Now that i want to get out of this file:
+  - I can save and quit
+  - I can discard and quit
+  
